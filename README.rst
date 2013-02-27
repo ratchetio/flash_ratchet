@@ -1,3 +1,6 @@
+This library is deprecated, please use flash_rollbar_
+=====================================================
+
 flash_ratchet
 ===============
 
@@ -81,6 +84,7 @@ Additional Help
 If you have any questions, feedback, etc., drop me a line at cory@ratchet.io
 
 
+.. _flash_rollbar: https://github.com/rollbar/flash_rollbar
 .. _Ratchet.io: http://ratchet.io/
 .. _error reporting: http://ratchet.io/
 .. _flash_ratchet: http://github.com/ratchetio/flash_ratchet
